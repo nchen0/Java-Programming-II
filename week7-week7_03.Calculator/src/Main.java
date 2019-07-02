@@ -1,4 +1,3 @@
-
 public class Main {
     public static void main(String[] args) {
         // Write some code here to test your program
@@ -7,5 +6,8 @@ public class Main {
         // all you need to write here is:
         // Calculator calculator = new Calculator();
         // calculator.start();
+        Reader reader = new Reader();
+        reader.readString();
+
     }
 }
